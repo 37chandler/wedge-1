@@ -11,7 +11,11 @@
 
 **connor_wedge_project_part_one.ipynb**
 
-1. This notebook unpacks all of the .zip files, cleans them, converts them into pandas data frames and uploads them to GBQ.
+This notebook: 
+
+1. Unpacks all of the .zip files.
+1. Cleans the output.
+1. Converts the output into pandas data frames and uploads them to GBQ.
 
 
 
@@ -20,6 +24,8 @@
 * Files for this task: 
 
 **connor_wedge_project_part_two.ipynb**
+
+This notebook:
 
 1. Queries GBQ to create data frame of all distinct card numbers.
 1. Makes a new data frame from 1% sample of those distinct card numbers.
