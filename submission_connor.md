@@ -21,12 +21,12 @@ This notebook unpacks all of the .zip files, cleans them, converts them into pan
 
 **connor_wedge_project_part_two.ipynb**
 
-Queries GBQ to create data frame of all distinct card numbers.
-Makes a new data frame from 1% sample of those distinct card numbers.
-Uploads that new data frame back to GBQ
-Queries GBQ to get all transaction records for the cards in the sample table.
-Directly loads query result into local data frame.
-Writes data frame to a local text file containing transaction results.
+Queries GBQ to create data frame of all distinct card numbers.<br>
+Makes a new data frame from 1% sample of those distinct card numbers.<br>
+Uploads that new data frame back to GBQ.<br>
+Queries GBQ to get all transaction records for the cards in the sample table.<br>
+Directly loads query result into local data frame.<br>
+Writes data frame to a local text file containing transaction results.<br>
 
 	
 
