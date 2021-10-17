@@ -11,7 +11,7 @@
 
 **connor_wedge_project_part_one.ipynb**
 
-This notebook unpacks all of the .zip files, cleans them, converts them into pandas data frames and uploads them to GBQ.
+1. This notebook unpacks all of the .zip files, cleans them, converts them into pandas data frames and uploads them to GBQ.
 
 
 
@@ -21,12 +21,12 @@ This notebook unpacks all of the .zip files, cleans them, converts them into pan
 
 **connor_wedge_project_part_two.ipynb**
 
-Queries GBQ to create data frame of all distinct card numbers.<br>
-Makes a new data frame from 1% sample of those distinct card numbers.<br>
-Uploads that new data frame back to GBQ.<br>
-Queries GBQ to get all transaction records for the cards in the sample table.<br>
-Directly loads query result into local data frame.<br>
-Writes data frame to a local text file containing transaction results.<br>
+1. Queries GBQ to create data frame of all distinct card numbers.
+1. Makes a new data frame from 1% sample of those distinct card numbers.
+1. Uploads that new data frame back to GBQ.
+1. Queries GBQ to get all transaction records for the cards in the sample table.
+1. Directly loads query result into local data frame.
+1. Writes data frame to a local text file containing transaction results.
 
 	
 
