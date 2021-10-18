@@ -1,6 +1,8 @@
 *.zip
 *.txt
 *.db
+*.csv
+*.sql
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
